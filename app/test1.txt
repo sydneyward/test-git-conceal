@@ -1,0 +1,4 @@
+here are some words
+most should not trigger the entropy
+hadsfjkldgiokwlnermsfdxvci2345&*^%$ 
+password=helpmeplz
