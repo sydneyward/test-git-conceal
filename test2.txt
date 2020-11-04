@@ -1,2 +1,2 @@
-here are some more test cases
-usernames should trigger regex
+here are some more test cases 
+username should trigger regex

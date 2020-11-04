@@ -24,9 +24,9 @@ print (user.get_attribute("department"),user.get_attribute("Company"),user.get_a
 
 print('\n')
 
-# jawesrdtfhjk%%%87564f
+# jawesrdtfhjk%%%87564fd
 
-#print (laborWebappGroup)
+# print (laborWebappGroup)
 print (users)
 print ('Members of Labor Webapp Security Group:')
 print (laborWebappGroup.get_attribute("member"))
@@ -38,7 +38,7 @@ f.close()
 
 print ('\n')
 
-#testing all the regex functions
+# testing all the regex functions
 
 my_password := "secretpass" or my_password := secretpass
 
