@@ -5,7 +5,7 @@ pyad.set_defaults(ldap_server="WIN-3QMNF1PAO8B.testlab.local", username="ajoseph
 user=pyad.aduser.ADUser.from_cn("Susan Sally")
 #users =pyad.aduser.ADUser()
 #users = pyad.adgroup.ADGroup.from_cn("User")
-#laborWebappGroup = pyad.adgroup.ADGroup.from_cn("Labor Webapp")
+#laborWebappGroup =  pyad.adgroup.ADGroup.from_cn("Labor Webapp")
 
 #from pyad import adquery
 qobj = adquery.ADQuery()
